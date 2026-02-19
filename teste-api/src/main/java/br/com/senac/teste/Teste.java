@@ -1,0 +1,4 @@
+package br.com.senac.teste;
+
+public class Teste {
+}
